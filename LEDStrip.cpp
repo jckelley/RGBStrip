@@ -1,7 +1,14 @@
-// 
-// 
-// 
-
+/** 
+ * Program: RGB LED STRIP LIBRARY FOR ARDUNIO UNO
+ * __author__ = "Joseph Kelley"
+ * _copyright__ = "Copyright 2015"
+ * __license__ = "MIT"
+ * __version__ = "1.0"
+ * __maintainer__ = "Joseph Kelley"
+ * __email__ = "joe.kelley@wisc.edu"
+ * __status__ = "Charlie"
+ *
+ */
 #include "LEDStrip.h"
 
 

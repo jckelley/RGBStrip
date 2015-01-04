@@ -17,14 +17,12 @@ Features
 Installation
 ------------
 
-Simply download the following files and added them to your project. Then, add the following line to the top of your main .ino file.
+Simply download the following files and added them to your project.
 
 - LEDStrip.h
 - LEDStrip.cpp
 - color.h
     
-
-	include "LEDStrip.h"
 
 
 Using it
