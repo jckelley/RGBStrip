@@ -24,7 +24,7 @@ Simply download the following files and added them to your project. Then, add th
 - color.h
     
 
-    #include "LEDStrip.h"
+	#include "LEDStrip.h"
 
 
 Using it
