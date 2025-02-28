@@ -38,8 +38,7 @@ Contribute
 Support
 -------
 
-I made this as a very small side-project one night because I couldn't find other something as simple and basic as I wanted. Need help with some of it or want to improve it somehow? Fork it and go ahead and shoot me an e-mail. 
-joekelley2028 (at) gmail.com
+I made this as a very small side-project one night because I couldn't find other something as simple and basic as I wanted.
 
 License
 -------
